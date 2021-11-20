@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 14 17:39:54 2021
 
-@author: serdarhelli
-"""
 
 import requests
 from zipfile import ZipFile
