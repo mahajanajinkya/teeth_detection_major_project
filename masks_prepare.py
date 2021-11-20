@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: serdarhelli
-"""
 
 import os
 import sys
